@@ -1,0 +1,25 @@
+﻿[[Personal Information from Find Service]]
+[Device Information]
+Phone number, Model Name, IMEI, MCC(Mobile Country Code), MNC(Mobile Network Code), CSC(Customer Software Configuration)
+null, Galaxy S21 5G, IMEI:352946241318714, 230, 03, SKZ
+
+[Location Information]
+Time Requested, Latitude, Longitude
+2024-08-21 10:28:51, 49.7258291, 13.3925251
+2024-08-21 11:00:11, 49.72584, 13.3926312
+2024-08-21 10:59:57, 49.7258378, 13.3926292
+2024-08-21 10:29:24, 49.7258356, 13.3926287
+2024-08-21 11:01:28, 49.7258383, 13.3926335
+
+[Retrieve Calls and Messages History]
+
+[Lock Information]
+Time Requested, Contact number for returning call, Message on lock screen
+
+[SIM Card Changed Information]
+Previous phone number, Current phone number, Changed on
+
+[History of The Service]
+Date requested, Function
+
+
